@@ -27,7 +27,7 @@ export const team: TeamMember[] = [
   {
     name: "Mark Spanbroek",
     role: "CTO & Co-Founder",
-    bio: "MSc Computer Science. 15+ years shipping production software. Led engineering at Philips (Hue, Sonicare). Implemented early MPC algorithms. Architects the Archivist marketplace.",
+    bio: "MSc Computer Science. 15+ years shipping production software. Led engineering at Philips (Hue, Sonicare). Implemented early MPC algorithms. Architects the Promethei marketplace.",
     avatar: "https://github.com/markspanbroek.png",
     github: "https://github.com/markspanbroek",
   },
@@ -41,7 +41,7 @@ export const team: TeamMember[] = [
   {
     name: "Ben Bierens",
     role: "Systems Engineer",
-    bio: "Systems engineer focused on erasure coding, storage verification, and building the core infrastructure that powers Archivist's decentralized storage network.",
+    bio: "Systems engineer focused on erasure coding, storage verification, and building the core infrastructure that powers Promethei's decentralized storage network.",
     avatar: "https://github.com/benbierens.png",
     github: "https://github.com/benbierens",
   },
